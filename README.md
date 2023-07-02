@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/JOSEW383/DrumKit/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JOSEW383/DrumKit/actions/workflows/pages/pages-build-deployment)
 # DrumKit
 
 DrumKit is an online drumming game designed as an example of a web application developed with JavaScript. The game allows players to virtually play a drum set using their keyboard.
